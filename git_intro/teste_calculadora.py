@@ -11,3 +11,6 @@ print(f'{a} - {b} = {subtracao}')
 
 produto = calculadora.multiplicar(a, b)
 print(f'{a} * {b} = {produto}')
+
+divisao = calculadora.divisao(a, b)
+print(f'{a} / {b} = {divisao}')
