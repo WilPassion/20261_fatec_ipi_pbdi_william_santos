@@ -31,6 +31,6 @@ def menu():
         if opcao == "4":
             a = float(input("Digite o primeiro número: "))
             b = float(input("Digite o segundo número: "))
-            print(calculadora.dividir(a, b))
+            print(calculadora.divisao(a, b))
 
 menu()
