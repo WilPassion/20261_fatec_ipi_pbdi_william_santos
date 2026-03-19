@@ -2,6 +2,11 @@
 
 Este repositório contém materiais, exercícios e projetos desenvolvidos durante a disciplina de Programação em Banco de Dados I da Fatec Ipiranga.
 
+* Aluno: William Ferreira dos Santoss
+* RA: 2041382311033
+
+--------------------------------------------
+
 * Professor: [Rodrigo Bossini](https://www.linkedin.com/in/rodrigobossini/)
 * Curso: [Big Data para Negócios - Fatec Ipiranga](https://fatecipiranga.cps.sp.gov.br/cursos/big-data-para-negocios/)
 
