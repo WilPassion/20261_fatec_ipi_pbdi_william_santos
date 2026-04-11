@@ -1,8 +1,10 @@
-# 📊 Programação em Banco de Dados I
+                                                Programação em Banco de Dados I —  GIT
 
-Este repositório contém materiais, exercícios e projetos desenvolvidos durante a disciplina de Programação em Banco de Dados I da Fatec Ipiranga.
+Este repositório contém exercícios e práticas desenvolvidos na disciplina de Programação em Banco de Dados I da Fatec Ipiranga.</br></br>
 
-* Aluno: William Ferreira dos Santoss
+## 👨‍🎓 Informações do Aluno
+
+* Aluno: [William Ferreira dos Santos](https://www.linkedin.com/in/william-santos-194a76131/)
 * RA: 2041382311033
 
 --------------------------------------------
